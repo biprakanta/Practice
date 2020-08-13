@@ -1,0 +1,2 @@
+# Practice
+Leetcode Python Solutions
